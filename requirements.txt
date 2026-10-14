@@ -1,0 +1,4 @@
+ply>=3.11
+streamlit>=1.30
+graphviz>=0.20
+pytest>=7.0
